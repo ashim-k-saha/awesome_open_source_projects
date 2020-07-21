@@ -1,5 +1,16 @@
 Awesome open source projects
 
+## Terminal
+
+* [alacritty](https://github.com/alacritty/alacritty)
+  > Alacritty is the fastest terminal emulator in existence. Using the GPU for rendering enables optimizations that simply aren't possible without it. Alacritty currently supports macOS, Linux, BSD, and Windows.
+
+* [tmux](https://github.com/tmux/tmux)
+  > tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. tmux may be detached from a screen and continue running in the background, then later reattached.
+
+* [kitty](https://github.com/kovidgoyal/kitty)
+  > kitty - the fast, featureful, GPU based terminal emulator
+
 ## Database
 
 * [dgraph](https://github.com/dgraph-io/dgraph)
