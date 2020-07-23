@@ -19,13 +19,13 @@ Awesome open source projects
 * [badger](https://github.com/dgraph-io/badger)
   > BadgerDB is an embeddable, persistent and fast key-value (KV) database written in pure Go.
 
-* https://github.com/influxdata/influxdb
+* [influxdb](https://github.com/influxdata/influxdb)
   > Scalable datastore for metrics, events, and real-time analytics
 
 * [scylla](https://github.com/scylladb/scylla)
   > Scylla is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
 
-* https://github.com/pingcap/tidb
+* [tidb](https://github.com/pingcap/tidb)
   > TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 
 ## Web Framework
