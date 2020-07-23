@@ -166,6 +166,12 @@ The fantastic ORM library for Golang, aims to be developer friendly (v2 is under
 
 ## TBD
 
+https://github.com/yeasy/docker_practice
+Learn and understand Docker technologies, with real DevOps practice!
+
+https://github.com/rclone/rclone
+"rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+
 * [websocketd](https://github.com/joewalnes/websocketd)
   > Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 
