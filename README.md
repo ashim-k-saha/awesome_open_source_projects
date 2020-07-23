@@ -547,8 +547,8 @@ Dragonfly is an intelligent P2P based image and file distribution system.
 https://github.com/pion/webrtc
 Pure Go implementation of the WebRTC API
 
-https://github.com/src-d/go-git
-Projects has been moved to:
+https://github.com/go-git/go-git
+A highly extensible Git implementation in pure Go.
 
 https://github.com/akavel/up
 Ultimate Plumber is a tool for writing Linux pipes with instant live preview
