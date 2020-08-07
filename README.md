@@ -1111,11 +1111,92 @@ The boss of http auth.
 https://github.com/crossplane/crossplane
 Manage any infrastructure your applications need directly from Kubernetes
 
+https://github.com/monkeyWie/gopeed
+A fast download client,support HTTP&P2P.
 
+https://github.com/mholt/timeliner
+All your digital life on a single timeline, stored locally
 
+https://github.com/roboll/helmfile
+Deploy Kubernetes Helm Charts
 
+https://github.com/divan/txqr
+Transfer data via animated QR codes
 
+https://github.com/dgraph-io/ristretto
+A high performance memory-bound Go cache
 
+https://github.com/weaveworks/flagger
+Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+
+https://github.com/upper/db
+Data access layer for PostgreSQL, MySQL, SQLite and MongoDB.
+
+https://github.com/zalando/skipper
+An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
+
+https://github.com/hacklcx/HFish
+🍯 A Most Convenient Honeypot Platform. 🐝🐝🐝 🐝🐝
+
+https://github.com/alexellis/k3sup
+bootstrap Kubernetes with k3s over SSH < 1 min 🚀
+
+https://github.com/apache/dubbo-go
+Go Implementation For Apache Dubbo
+
+https://github.com/cube2222/octosql
+OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+
+https://github.com/oauth2-proxy/oauth2-proxy
+A reverse proxy that provides authentication with Google, Github or other providers.
+
+https://github.com/maxmcd/webtty
+Share a terminal session over WebRTC
+
+https://github.com/jasonlvhit/gocron
+A Golang Job Scheduling Package.
+
+https://github.com/ThreeDotsLabs/watermill
+Building event-driven applications the easy way in Go.
+
+https://github.com/ahmetb/go-linq
+.NET LINQ capabilities in Go
+
+https://github.com/derailed/popeye
+👀 A Kubernetes cluster resource sanitizer
+
+https://github.com/cuelang/cue
+Validate and define text-based and dynamic configuration
+
+https://github.com/pulumi/kubespy
+Tools for observing Kubernetes resources in real time, powered by Pulumi.
+
+https://github.com/dunglas/mercure
+Server-sent live updates: protocol and reference implementation
+
+https://github.com/floyernick/Data-Structures-and-Algorithms
+Kiali project, observability for the Istio service mesh
+
+https://github.com/wailsapp/wails
+Create desktop apps using Go and Web Technologies.
+
+https://github.com/yunabe/lgo
+Interactive Go programming with Jupyter
+
+https://github.com/thecodingmachine/gotenberg
+A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+
+https://github.com/arachnys/athenapdf
+Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
+
+https://github.com/sundowndev/PhoneInfoga
+Advanced information gathering & OSINT framework for phone numbers
+
+https://github.com/thoas/go-funk
+A modern Go utility library which provides helpers (map, find, contains, filter, ...)
+
+https://github.com/changkun/go-under-the-hood
+📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
 
 
 
