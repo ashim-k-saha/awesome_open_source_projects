@@ -844,12 +844,272 @@ Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and r
 https://github.com/cortexproject/cortex
 A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 
+https://github.com/golang/go
+The Go programming language
 
+https://github.com/kubernetes/kubernetes
+Production-Grade Container Scheduling and Management
 
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software
 
+https://github.com/gohugoio/hugo
+The world’s fastest framework for building websites.
 
+https://github.com/fatedier/frp
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
+https://github.com/astaxie/build-web-application-with-golang
+A golang ebook intro how to build a web with golang
 
+https://github.com/v2ray/v2ray-core
+A platform for building proxies to bypass network restrictions.
+
+https://github.com/syncthing/syncthing
+Open Source Continuous File Synchronization
+
+https://github.com/prometheus/prometheus
+The Prometheus monitoring system and time series database.
+
+https://github.com/etcd-io/etcd
+Distributed reliable key-value store for the most critical data of a distributed system
+
+https://github.com/junegunn/fzf
+🌸 A command-line fuzzy finder
+
+https://github.com/containous/traefik
+The Cloud Native Edge Router
+
+https://github.com/ethereum/go-ethereum
+Official Go implementation of the Ethereum protocol
+
+https://github.com/pingcap/tidb
+TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+
+https://github.com/hashicorp/vault
+A tool for secrets management, encryption as a service, and privileged access management
+
+https://github.com/jesseduffield/lazydocker
+The lazier way to manage everything docker
+
+https://github.com/sirupsen/logrus
+Structured, pluggable logging for Go.
+
+https://github.com/rancher/rancher
+Complete container management platform
+
+https://github.com/gorilla/websocket
+A fast, well-tested and widely used WebSocket implementation for Go.
+
+https://github.com/kubernetes/kops
+Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+
+https://github.com/cli/cli
+GitHub’s official command line tool
+
+https://github.com/Dreamacro/clash
+A rule-based tunnel in Go.
+
+https://github.com/elastic/beats
+🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+
+https://github.com/grpc-ecosystem/grpc-gateway
+gRPC to JSON proxy generator following the gRPC HTTP spec
+
+https://github.com/gravitational/teleport
+Secure Access for Developers that doesn't get in the way.
+
+https://github.com/github/gh-ost
+GitHub's Online Schema Migrations for MySQL
+
+https://github.com/sjwhitworth/golearn
+Machine Learning for Go
+
+https://github.com/crawlab-team/crawlab
+Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+
+https://github.com/hashicorp/nomad
+Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.
+
+https://github.com/GoesToEleven/GolangTraining
+Training for Golang (go language)
+
+https://github.com/cilium/cilium
+eBPF-based Networking, Security, and Observability
+
+https://github.com/containers/podman
+Podman: A tool for managing OCI containers and pods
+
+https://github.com/99designs/gqlgen
+go generate based graphql server library
+
+https://github.com/golang/mock
+GoMock is a mocking framework for the Go programming language.
+
+https://github.com/vmware-tanzu/octant
+Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+
+https://github.com/bfenetworks/bfe
+A modern layer 7 load balancer from baidu
+
+https://github.com/operator-framework/operator-sdk
+SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+
+https://github.com/GoAdminGroup/go-admin
+A golang framework helps gopher to build a data visualization and admin panel in ten minutes
+
+https://github.com/cortexproject/cortex
+A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+
+https://github.com/facebookincubator/ent
+An entity framework for Go
+
+https://github.com/nats-io/nats.go
+Golang client for NATS, the cloud native messaging system.
+
+https://github.com/sourcegraph/checkup
+Distributed, lock-free, self-hosted health checks and status pages
+
+https://github.com/drk1wi/Modlishka
+Modlishka. Reverse Proxy.
+
+https://github.com/gobuffalo/packr
+The simple and easy way to embed static files into Go binaries.
+
+https://github.com/alecthomas/kingpin
+CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+
+https://github.com/goinaction/code
+Source Code for Go In Action examples
+
+https://github.com/mholt/archiver
+Easily create & extract archives, and compress & decompress files of various formats
+
+https://github.com/rakyll/statik
+Embed files into a Go executable
+
+https://github.com/coocood/freecache
+A cache library for Go with zero GC overhead.
+
+https://github.com/markbates/goth
+Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+
+https://github.com/kubernetes-sigs/krew
+📦 Find and install kubectl plugins
+
+https://github.com/42wim/matterbridge
+bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API.
+
+https://github.com/kubernetes-sigs/kubebuilder
+Kubebuilder - SDK for building Kubernetes APIs using CRDs
+
+https://github.com/esimov/pigo
+Pure Go face detection, pupil/eyes localization and facial landmark points detection library
+
+https://github.com/moby/buildkit
+concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+
+https://github.com/VictoriaMetrics/VictoriaMetrics
+VictoriaMetrics - fast, cost-effective and scalable time series database
+
+https://github.com/wcharczuk/go-chart
+go chart is a basic charting library in native golang.
+
+https://github.com/containous/yaegi
+Yaegi is Another Elegant Go Interpreter
+
+https://github.com/mailru/easyjson
+Fast JSON serializer for golang.
+
+https://github.com/360EntSecGroup-Skylar/goreporter
+A Golang tool that does static analysis, unit testing, code review and generate code quality report.
+
+https://github.com/nginxinc/kubernetes-ingress
+NGINX and NGINX Plus Ingress Controllers for Kubernetes
+
+https://github.com/ffuf/ffuf
+Fast web fuzzer written in Go
+
+https://github.com/projectdiscovery/subfinder
+Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+
+https://github.com/xtaci/kcp-go
+A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
+
+https://github.com/pquerna/ffjson
+faster JSON serialization for Go
+
+https://github.com/shomali11/go-interview
+Collection of Technical Interview Questions solved with Go
+
+https://github.com/dunglas/vulcain
+Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs
+
+https://github.com/olivia-ai/olivia
+💁‍♀️Your new best friend powered by an artificial neural network
+
+https://github.com/campoy/go-tooling-workshop
+A workshop covering all the tools gophers use in their day to day life
+
+https://github.com/golang/glog
+Leveled execution logs for Go
+
+https://github.com/syncsynchalt/illustrated-tls
+The Illustrated TLS Connection: Every byte explained
+
+https://github.com/gopherdata/gophernotes
+The Go kernel for Jupyter notebooks and nteract.
+
+https://github.com/tailscale/tailscale
+The easiest, most secure way to use WireGuard and 2FA.
+
+https://github.com/go-task/task
+A task runner / simpler Make alternative written in Go
+
+https://github.com/emitter-io/emitter
+High performance, distributed and low latency publish-subscribe platform.
+
+https://github.com/google/mtail
+extract whitebox monitoring data from application logs for collection in a timeseries database
+
+https://github.com/buzzfeed/sso
+sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
+
+https://github.com/unidoc/unioffice
+Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
+
+https://github.com/TarsCloud/TarsGo
+A high performance microservice framework in golang. A linux foundation project.
+
+https://github.com/Jeffail/benthos
+A stream processor for mundane tasks written in Go
+
+https://github.com/projectcontour/contour
+Contour is a Kubernetes ingress controller using Envoy proxy.
+
+https://github.com/uber/aresdb
+A GPU-powered real-time analytics storage and query engine.
+
+https://github.com/kubernetes/kube-state-metrics
+Add-on agent to generate and expose cluster-level metrics.
+
+https://github.com/pion/ion
+Distributed RTC System by pure Go and Flutter
+
+https://github.com/mgechev/revive
+🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
+
+https://github.com/reviewdog/reviewdog
+🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+
+https://github.com/cheggaaa/pb
+Console progress bar for Golang
+
+https://github.com/volatiletech/authboss
+The boss of http auth.
+
+https://github.com/crossplane/crossplane
+Manage any infrastructure your applications need directly from Kubernetes
 
 
 
